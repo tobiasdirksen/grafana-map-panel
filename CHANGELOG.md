@@ -2,8 +2,10 @@
 
 
 ## In progress
-- Fix release tooling.
 
+## v0.5.0-dev1
+- Fix release tooling.
+- Build with Grafana Plugin Toolkit. Thanks, [@ryantxu](https://github.com/ryantxu).
 
 ## v0.4.0
 - Rename to `grafana-worldmap-panel-ng` to allow side-by-side installation

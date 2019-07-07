@@ -1,6 +1,6 @@
 {
   "name": "grafana-worldmap-panel-ng",
-  "version": "0.4.0",
+  "version": "0.5.0-dev1",
   "description": "Worldmap Panel Plugin for Grafana",
   "scripts": {
     "build": "grafana-toolkit plugin:build",
