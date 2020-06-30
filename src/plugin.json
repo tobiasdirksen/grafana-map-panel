@@ -1,7 +1,7 @@
 {
   "type": "panel",
-  "name": "Map Panel",
-  "id": "grafana-map-panel",
+  "name": "Map Panel Todi",
+  "id": "grafana-map-panel-todi",
 
   "info": {
     "description": "Grafana Map Panel. Displays time series data or geohash data on a world map.",
